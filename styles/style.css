@@ -1,0 +1,17 @@
+body 
+{ 
+background-color: rgb(41, 41, 47)
+}
+
+.game 
+{
+    display: flex;
+    flex-direction: column;
+    color: #fff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    max-height: 100vh;
+}
+
+canvas { border: 1px solid black; }
